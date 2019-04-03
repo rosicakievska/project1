@@ -1,0 +1,1 @@
+Readme file,edna proba za kreiranje nov proekt na Git
